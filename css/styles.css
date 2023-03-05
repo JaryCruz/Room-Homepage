@@ -114,6 +114,7 @@ ul {
   font-family: 'League Spartan', sans-serif;
   letter-spacing: 8px;
   font-size: 1.2rem;
+  color: var(--black);
 }
 
 .btn-shop:hover {
